@@ -20,23 +20,18 @@ In this project, we aimed to predict the B-Factor, a measure of atomic displacem
 --> images .. unexhaustive screenshots on our results
 
 ‭ <h4>References‬</h4>
-‭ Brandes, N., Ofer, D., et al. (2022). ProteinBERT: A universal deep-learning model of protein sequence‬
-‭ and function. Bioinformatics, 38(8), 2102-2110.‬
-
-‭ Chandra, A., Tünnermann, L., et al. (2023). Transformer-based deep learning for predicting protein‬
-‭ properties in the life sciences. eLife, 12, e82819.‬
-
-‭ Jumper, J., Evans, R., et al. (2021). Highly accurate protein structure prediction with AlphaFold. Nature,‬
-‭ 596(7873), 583-589.‬
-
-‭ Pandey, A., Liu, E., et al. (2023). B-factor prediction in proteins using a sequence-based deep learning‬
-‭ model. Patterns, 100805.‬
-
-‭ Smyth, M. S., Martin, J. H. J. (2000). X Ray crystallography. Journal of Clinical Pathology: Molecular‬
-‭ Pathology, 53(1), 8-14.‬
-
-‭ Xu, G., Yang, Y ., et al. (2024). OPUS-BFactor: Predicting protein B-factor with sequence and structure‬
-‭ information.‬
+Brandes, N., Ofer, D., et al. (2022). ProteinBERT: A universal deep-learning model of protein sequence‬
+‭  and function. Bioinformatics, 38(8), 2102-2110.‬<br><br>
+Chandra, A., Tünnermann, L., et al. (2023). Transformer-based deep learning for predicting protein‬
+‭  properties in the life sciences. eLife, 12, e82819.‬<br><br>
+‭Jumper, J., Evans, R., et al. (2021). Highly accurate protein structure prediction with AlphaFold. Nature,‬
+‭  596(7873), 583-589.‬<br><br>
+Pandey, A., Liu, E., et al. (2023). B-factor prediction in proteins using a sequence-based deep learning‬
+‭  model. Patterns, 100805.‬<br><br>
+Smyth, M. S., Martin, J. H. J. (2000). X Ray crystallography. Journal of Clinical Pathology: Molecular‬
+‭  Pathology, 53(1), 8-14.‬<br><br>
+Xu, G., Yang, Y ., et al. (2024). OPUS-BFactor: Predicting protein B-factor with sequence and structure‬
+‭  information.‬
 
 
 
