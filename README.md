@@ -1,4 +1,4 @@
-This is the repository for the B-Factor prediction project. You can find the following scripts here:
+<h3>Scripts</h3>
 
 --> Deep_Learning_B-Factor_Prediction.ipynb .. a systematic testing on a small subset of our data. 
 
@@ -9,7 +9,7 @@ This is the repository for the B-Factor prediction project. You can find the fol
 --> report.pdf .. our full-report of our results, with selected data points & visualizations explained and analyzed.
 
 
-Here's an abstract of this project:
+<h3>Abstract</h3>
 
 In this project, we aimed to predict the B-Factor, a measure of atomic displacement, of amino acids within‬
 ‭ a protein sequence using deep learning approaches. We tested various parameters and architectures of‬
