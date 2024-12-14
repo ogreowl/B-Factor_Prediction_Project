@@ -1,16 +1,4 @@
-<h3>Scripts</h3>
-
---> Deep_Learning_B-Factor_Prediction.ipynb .. a systematic testing on a small subset of our data. 
-
---> b_factor_prediction_transformer.ipynb .. our final model, trained on 60k protein sequences
-
---> src .. helper scripts to modularize our work 
-
---> report.pdf .. our full report of our results, with selected data points & visualizations explained and analyzed.
-
-
 <h3>Abstract</h3>
-
 In this project, we aimed to predict the B-Factor, a measure of atomic displacement, of amino acids within‬
 ‭ a protein sequence using deep learning approaches. We tested various parameters and architectures of‬
 ‭ linear models, recurrent neural networks, long-short term models, and transformers in order to‬
@@ -22,6 +10,16 @@ In this project, we aimed to predict the B-Factor, a measure of atomic displacem
 ‭ sequences. On this larger scale, we were able to match state-of-the-art performance with an 81% Pearson‬
 ‭ Correlation Coefficient, and found that positional embeddings allowed our models to make predictions‬
 ‭ with higher accuracy and more efficiency.
+
+
+<h3>Scripts</h3>
+--> Deep_Learning_B-Factor_Prediction.ipynb .. a systematic testing on a small subset of our data. 
+
+--> b_factor_prediction_transformer.ipynb .. our final model, trained on 60k protein sequences
+
+--> src .. helper scripts to modularize our work 
+
+--> report.pdf .. our full report of our results, with selected data points & visualizations explained and analyzed.
 
 ‭ <h4>References‬</h4>
 ‭ Brandes, N., Ofer, D., et al. (2022). ProteinBERT: A universal deep-learning model of protein sequence‬
