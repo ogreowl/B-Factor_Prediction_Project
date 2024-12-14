@@ -6,7 +6,7 @@
 
 --> src .. helper scripts to modularize our work 
 
---> report.pdf .. our full-report of our results, with selected data points & visualizations explained and analyzed.
+--> report.pdf .. our full report of our results, with selected data points & visualizations explained and analyzed.
 
 
 <h3>Abstract</h3>
