@@ -17,7 +17,9 @@ In this project, we aimed to predict the B-Factor, a measure of atomic displacem
 --> b_factor_prediction_transformer.ipynb .. our final model, trained on 60k protein sequences<br>
 --> src .. helper scripts to modularize our work<br>
 --> report.pdf .. our full report of our results, with selected data points & visualizations explained and analyzed<br>
---> images .. unexhaustive screenshots on our results
+--> images .. unexhaustive screenshots on our results<br><br>
+You can also learn more about this project through this repository by my partner Marco Carbullido:
+https://github.com/marcocarbullido/protein-b-factor-prediction
 
 
 ‭
